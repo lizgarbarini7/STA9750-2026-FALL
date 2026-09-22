@@ -6,14 +6,14 @@ website:
   title: "STA 9750 Submission Material"
   description:
     Course Projects for STA 9750 at Baruch College
-  site-url: "https://YOUR_GITHUB_ID.github.io/STA9750-2026-FALL/"
+  site-url: "https://lizgarbarini7.github.io/STA9750-2026-FALL/"
   navbar:
     background: primary
     search: false
     
 format:
   html:
-    theme: THEME
+    theme: solar
     toc: false
 
 editor:
