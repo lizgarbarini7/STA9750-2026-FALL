@@ -1,0 +1,10 @@
+log2(10)+log10(2)
+length(airmiles)
+class(airmiles)
+install.packages("dplyr")
+library(dplyr)
+glimpse(penguins)
+count(penguins, sex =='male')
+penguins |> filter(sex=='male', bill_len > 38) |>  summarize(body_mass_avg = mean(body_mass, na.rm = TRUE))
+
+penguins |> count(is.na(sex), !is.na(body_mass))
