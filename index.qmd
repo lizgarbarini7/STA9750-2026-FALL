@@ -1,0 +1,32 @@
+---
+title: "Liz Garbarini"
+---
+
+## About Me
+
+Hi, I'm Liz! I'm currently based in Brooklyn, New York.
+
+### Educational/Professional Background
+
+- B.S. in Economics from Tulane University
+- 2.5 years as a Portfolio Manager for the federal government
+- Now a Business Operations Analyst at an ad tech company based in NYC
+
+### Hobbies
+
+In my spare time I love:
+
+- Running in Prospect Park
+- Playing basketball or soccer with friends
+- Attempting to perfect my pottery skills
+
+I'm excited to further my R skills in STA9750 this semester!
+
+
+
+```{r}
+#| include: false
+1+1
+```
+--------------
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
