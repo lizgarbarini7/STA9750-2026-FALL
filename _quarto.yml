@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - mp01.qmd
+    - mp02.qmd
+    - mp03.qmd
+    - mp04.qmd
 
 website:
   title: "STA 9750 Submission Material"
@@ -10,7 +16,18 @@ website:
   navbar:
     background: primary
     search: false
-    
+    left:
+      - href: index.qmd
+        text: Home
+      - href: mp01.qmd
+        text: "Mini-Project 1"
+      - href: mp02.qmd
+        text: "Mini-Project 2"
+      - href: mp03.qmd
+        text: "Mini-Project 3"
+      - href: mp04.qmd
+        text: "Mini-Project 4"
+
 format:
   html:
     theme: solar
