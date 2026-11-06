@@ -1164,7 +1164,7 @@ Emissions were estimated from 2025 NTD fuel & electricity data using published E
 Three findings stand out. 
 - First, where a transit system operates matters as much as how it operates, because the same electric vehicle produces very different emissions depending on the local grid. 
 
-- Second, the choice of mode dominates the results: electric rail is far cleaner than driving, while low-occupancy services can be dirtier.
+- Second, the choice of mode dominates the results: electric rail is far cleaner than driving, while low occupancy services can be dirtier.
 
 - Third, the winners of the headline awards are held to the modeling assumptions including the fuel economy of the cars riders would otherwise use. There are limitations, including excluding upstream fuel emissions, assuming every rider would drive alone, and using state-average grid emissions (even if agencies have renewable power contracts).
 
