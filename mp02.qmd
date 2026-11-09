@@ -1227,6 +1227,7 @@ Three findings stand out.
 
 - Third, the winners of the headline awards are held to the modeling assumptions including the fuel economy of the cars riders would otherwise use. There are limitations, including excluding upstream fuel emissions, assuming every rider would drive alone, and using state-average grid emissions (even if agencies have renewable power contracts).
 
+
 ::: {.callout-note collapse="true"}
 ## AI Usage Statement
 
